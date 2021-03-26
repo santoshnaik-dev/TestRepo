@@ -1,2 +1,2 @@
 Test
-LINE 2
+Line two
